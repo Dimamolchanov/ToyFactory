@@ -1,0 +1,10 @@
+# Idea
+ToyFactory.iml
+geckodriver.exe
+seleniumwebdriver.iml
+.classpath
+.project
+.settings/
+.idea/
+target/
+test-output/
